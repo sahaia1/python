@@ -16,4 +16,4 @@ def sieve(n):
 
     print numbers
 
-sieve(1000)
+sieve(100000)
